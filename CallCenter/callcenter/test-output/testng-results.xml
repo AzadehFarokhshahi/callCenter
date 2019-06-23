@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76" started-at="2019-06-23T00:17:37Z" finished-at="2019-06-23T00:17:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76" started-at="2019-06-23T00:17:37Z" finished-at="2019-06-23T00:17:37Z">
+      <class name="com.callcenter.TestCallCenter">
+        <test-method status="PASS" signature="testCase1()[pri:1, instance:com.callcenter.TestCallCenter@4439f31e]" name="testCase1" duration-ms="21" started-at="2019-06-23T00:17:37Z" finished-at="2019-06-23T00:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="testCase2()[pri:2, instance:com.callcenter.TestCallCenter@4439f31e]" name="testCase2" duration-ms="2" started-at="2019-06-23T00:17:37Z" finished-at="2019-06-23T00:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="testCase3()[pri:3, instance:com.callcenter.TestCallCenter@4439f31e]" name="testCase3" duration-ms="1" started-at="2019-06-23T00:17:37Z" finished-at="2019-06-23T00:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method status="PASS" signature="testCase5()[pri:5, instance:com.callcenter.TestCallCenter@4439f31e]" name="testCase5" duration-ms="1" started-at="2019-06-23T00:17:37Z" finished-at="2019-06-23T00:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase5 -->
+      </class> <!-- com.callcenter.TestCallCenter -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
